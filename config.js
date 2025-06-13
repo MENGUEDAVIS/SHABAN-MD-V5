@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "SHABAN-MD~KM0TCKJa#CkwJ_Bhi9W_q1dwRZqWcs2pKC5hiSKaXFJKMqakiu9E",
+SESSION_ID: process.env.SESSION_ID || "SHABAN-MD~vQEhhAKC#j-msDkjU0qdUInP1-dJJJVc1Bg6eANzoHF3FAbBMQ-U",
 // add your Session Id
 AUTO_BIO: process.env.AUTO_BIO || "false", 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
@@ -24,7 +24,7 @@ PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "",
 // add custom menu and mention reply image url   
-BOT_NAME: process.env.BOT_NAME || "Yusuf V5",
+BOT_NAME: process.env.BOT_NAME || "Q",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "SHABAN-MD",
 // type sticker pack name 
@@ -34,11 +34,11 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "237672114754",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "237683151386",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "MR-SHABAN",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Yusuf*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Nobody*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "",
 // add img for alive msg
@@ -68,7 +68,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "237672114754",
+DEV: process.env.DEV || "237683151386",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "false",
 // true for anti once view
