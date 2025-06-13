@@ -10,13 +10,13 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": "SHABAN-MD~KM0TCKJa#CkwJ_Bhi9W_q1dwRZqWcs2pKC5hiSKaXFJKMqakiu9E"
+      "value": "SHABAN-MD~vQEhhAKC#j-msDkjU0qdUInP1-dJJJVc1Bg6eANzoHF3FAbBMQ-U"
     },  
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "Yusuf-MD︎"
+      "value": "D︎"
     },
     
     "MENU_IMAGE_URL": {
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "Yusuf V5"
+      "value": "Q"
 
      },
      
